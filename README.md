@@ -17,6 +17,6 @@ if you are not using Android Studio to simulate, open it on browser
 <b>Choose option "w" to open you web browser</b>
 
 App interface
-<img height="180em" src="./img/screenshort_app.png"/>
+<img height="180em" src="/img/screenshort_app.png"/>
 
 
